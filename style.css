@@ -121,10 +121,13 @@ p {
     display: none;
   }
   h1 {
-    font-size: 52px;
+    font-size: 40px;
   }
   h2 {
     font-size: 36px;
+  }
+  .homeDesc {
+    padding: 10px;
   }
   .projectLinks {
     display: block;
